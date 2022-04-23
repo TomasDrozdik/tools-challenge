@@ -1,3 +1,5 @@
+#include <cassert>
+
 #include "library.h"
 
 int main()
